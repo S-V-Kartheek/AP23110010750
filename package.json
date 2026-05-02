@@ -1,0 +1,27 @@
+{
+  "name": "ap23110010750",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S-V-Kartheek/AP23110010750.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/S-V-Kartheek/AP23110010750/issues"
+  },
+  "homepage": "https://github.com/S-V-Kartheek/AP23110010750#readme",
+  "dependencies": {
+    "axios": "^1.15.2",
+    "body-parser": "^2.2.2",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "node-cron": "^4.2.1"
+  }
+}
